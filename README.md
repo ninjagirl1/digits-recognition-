@@ -1,1 +1,1 @@
-# digits-recognition-
+# digits-recognition- testing 0 - successful, testing 1 - successful, testing 2 - successful, testing 3 - successful, testing 4 - successful, testing 5 - successful, testing 6 - successful, testing 7 - successful, testing 8 - fail (6) , testing 9 - successful 
